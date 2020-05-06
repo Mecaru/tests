@@ -1,1 +1,2 @@
 Bonjour, ceci est un test. - Version 1.
+EEeeet deuxième ligne - Version 2.
